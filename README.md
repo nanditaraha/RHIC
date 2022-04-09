@@ -13,15 +13,15 @@ This code takes the following parameters as input:
    <li> no. of pairs exhibiting femtoscopy (a) </li>
     <li> no. of pairs with elliptical flow (b) </li> </ul>
         as arguments 
-and simulates an ideal coleration function. Ideally the pairs generate from femtoscopy are very close to each other and 
-so the relative rapidity and relative azimuthal angle is nearly zero - resulting a peak near zero in the correlation function R2.
+and simulates an ideal coleration function. Ideally the pairs generated from femtoscopy are very close to each other and 
+so the relative rapidity and relative azimuthal angle is nearly zero - resulting a peak near zero in the correlation function R<sub>2</sub>.
 The various patterns of the anisotropic flow of ultra-RHIC can be characterized by the Fourier expansion of the invariant 
 triple distribution of particle pairs. See eqn. 2 and 3 of the reference below:
 https://arxiv.org/abs/1102.3010 
-The conservation of momentum (represented by the first term i.e. v1 in the Fourier expansion and is sinusoidal in phi - psi i.e.cos(phi - psi)
-where phi is the azimuthal angle and psi is the reaction plane angle.
-Similarly the eliptical flow v2 due to the Lorentz boost is quantified by v2 i.e. cos2(phi - psi) which is evident in the ridge of 
-the correlation function R2.
+The conservation of momentum (represented by the first term i.e. v1 in the Fourier expansion and is sinusoidal in &phi; - &psi; i.e.cos(&phi; - &psi;)
+where &phi; is the azimuthal angle and &psi; is the reaction plane angle.
+Similarly the eliptical flow v<sub>2</sub> due to the Lorentz boost is quantified by v<sub>2</sub> i.e. cos2(&phi; - &psi;) which is evident in the ridge of 
+the correlation function R<sub>2</sub>.</br>
 NOTE: The total number of particles N < 500. (N = S +2*a +2*b) where S is the # of single particles.
 Code Usage:
 make clean
