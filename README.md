@@ -1,12 +1,18 @@
 # STAR at RHIC
 In this experiment we collide Au+Au nuclei at 200 GeV energy in the cm reference at the STAR detector. 
+
 In this code our goal is to simulate the collective behaviour of large ensembles of particles. 
 It is known that every individual particle behaves uniquely (so fractals behaviours are unpredictable) but the 
 collective behaviour of the entire system (or ensemble) is quite predictable may obey a certain pattern – this applies to 
 all large systems like predicting the weather, stock market, anomalies in diseases, human behaviour etc. and can have 
 applications to machine learning, VRML, data science etc. 
 
-This code takes the total multiplicity (n), no. of pairs exhibiting femtoscopy (a) and no. of pairs with elliptical flow (b) as arguments 
+This code takes the following parameters as input:
+<ul>
+  <li> total multiplicity (n)</li>
+   <li> no. of pairs exhibiting femtoscopy (a) </li>
+    <li> no. of pairs with elliptical flow (b) </li> </ul>
+        as arguments 
 and simulates an ideal coleration function. Ideally the pairs generate from femtoscopy are very close to each other and 
 so the relative rapidity and relative azimuthal angle is nearly zero - resulting a peak near zero in the correlation function R2.
 The various patterns of the anisotropic flow of ultra-RHIC can be characterized by the Fourier expansion of the invariant 
