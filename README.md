@@ -30,7 +30,7 @@ https://arxiv.org/abs/1102.3010 <br>
 </br>The conservation of momentum (represented by the first term i.e. v<sub>1</sub> in the Fourier expansion and is sinusoidal in &phi; - &psi; i.e.cos(&phi; - &psi;)
 where &phi; is the azimuthal angle and &psi; is the reaction plane angle.
 Similarly the eliptical flow v<sub>2</sub> due to the Lorentz boost is quantified by v<sub>2</sub> i.e. cos2(&phi; - &psi;) which is evident in the ridge of the correlation function R<sub>2</sub>. In an example from the code with a = 0 and b = 20, only the effect of elliptical flow persists as shown in the cos2(&phi; - &psi;) variation of R<sub>2</sub>(d&phi;) - right panel and a ridge in R<sub>2</sub>(dy,d&phi;) - left panel below:</br>
-<img width="697" alt="Screen Shot 2022-04-09 at 2 04 34 PM" src="https://user-images.githubusercontent.com/27436642/162586235-c5d3cb90-ae9d-4de5-abcc-c73070b558e9.png">
+<img width="697" alt="Screen Shot 2022-04-09 at 2 04 34 PM" src="https://user-images.githubusercontent.com/27436642/162586235-c5d3cb90-ae9d-4de5-abcc-c73070b558e9.png"></br>
 NOTE: The total number of particles N < 500. (N = S +2*a +2*b) where S is the # of single particles.</br>
 
 ### Code Usage:</br>
