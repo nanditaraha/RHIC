@@ -1,5 +1,5 @@
-# Simulations of correlation functions at STAR in RHIC
-In this experiment we collide Au+Au nuclei at 200 GeV energy in the cm reference at the STAR detector in RHIC. 
+# Simulations of correlation functions at STAR.
+In this experiment we collide Au+Au nuclei at 200 GeV energy in the cm reference at the STAR detector. 
 
 In this code our goal is to simulate the collective behaviour of large ensembles of particles. 
 It is known that every individual particle behaves uniquely (so fractals behaviours are unpredictable) but the 
