@@ -36,7 +36,7 @@ NOTE: The total number of particles N < 500. (N = S +2*a +2*b) where S is the # 
 ### Code Usage:</br>
 
 #### Must have at C++ and ROOT 6.24/06  installed.
-Create a folder called ps and follow the simple instructions below</br>
+All code is saved in Multshape. Create a folder called ps in your working directory (if it is not there) and follow the simple instructions below</br>
 > mkdir ps</br>
 > make clean</br>
 > make</br>
