@@ -25,7 +25,7 @@ In an example from the code with a = 10 and b = 1, this effect of femtoscopy is 
 The various patterns of the anisotropic flow of ultra-RHIC can be characterized by the Fourier expansion of the invariant 
 triple distribution of particle pairs. See eqn. 2 and 3 of the reference below:</br>
 https://arxiv.org/abs/1102.3010 <br>
-<img width="389" alt="Screen Shot 2022-04-09 at 1 19 36 PM" src="https://user-images.githubusercontent.com/27436642/162584653-41f07d03-7dc6-4d85-837f-007e8c9f3e05.png">
+<p align="center"><img width="389" alt="Screen Shot 2022-04-09 at 1 19 36 PM" src="https://user-images.githubusercontent.com/27436642/162584653-41f07d03-7dc6-4d85-837f-007e8c9f3e05.png"></p>
 </br>The conservation of momentum (represented by the first term i.e. v<sub>1</sub> in the Fourier expansion and is sinusoidal in &phi; - &psi; i.e.cos(&phi; - &psi;)
 where &phi; is the azimuthal angle and &psi; is the reaction plane angle.
 Similarly the eliptical flow v<sub>2</sub> due to the Lorentz boost is quantified by v<sub>2</sub> i.e. cos2(&phi; - &psi;) which is evident in the ridge of the correlation function R<sub>2</sub>. In an example from the code with a = 0 and b = 20, only the effect of elliptical flow persists as shown in the cos2(&phi; - &psi;) variation of R<sub>2</sub>(d&phi;) - right panel and a ridge in R<sub>2</sub>(dy,d&phi;) - left panel below:</br>
